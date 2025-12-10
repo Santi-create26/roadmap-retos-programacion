@@ -1,0 +1,28 @@
+# https://python.org
+
+# Comentario en una linea 
+
+"""
+Comentario 
+en lineas
+diferentes 
+"""
+
+'''
+Comentario 
+en lineas pero
+con comillas solas
+'''
+
+my_variable = "Variable que puede cambiar" 
+my_variable = "Nuevo sentido de la variable"
+
+MY_CONSTANT = "Variable pero que no se deberia cambibar"
+
+my_integer = 3
+my_float = 2.5
+my_bool = True
+my_bool = False
+my_str = "Mi cadena de texto"
+
+print("¡Hola, Python!")
